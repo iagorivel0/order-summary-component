@@ -12,8 +12,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-order-summary-zzfyBKSnub)
+- Live Site URL: [Live Site](https://iagorivel0.github.io/order-summary-component/)
 
 ## My process
 
@@ -29,5 +29,5 @@ I'm currently studying JavaScript, and soon I'll start a project using JavaScrip
 
 ## Author
 
-- Website - [Nacho Justel](https://www.your-site.com)
+- Website - [@iagorivel0](https://iagorivel0.github.io/order-summary-component/)
 - Frontend Mentor - [@iagorivel0](https://www.frontendmentor.io/profile/iagorivel0)
